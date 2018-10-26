@@ -48,7 +48,6 @@
     "fs-extra": "^3.0.1",
     "glob": "^7.1.2",
     "html-loader": "^0.4.5",
-    "img-loader": "^3.0.0",
     "lodash": "^4.17.5",
     "md5": "^2.2.1",
     "node-sass": "^4.9.0",
